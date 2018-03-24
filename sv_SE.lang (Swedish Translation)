@@ -1,0 +1,41 @@
+command.join.joinTeam=Du gick in med {0}
+command.join.error.notPremium=&dBara premium användare kan välja deras lag! Köp en rank på https://warzone.store/
+command.join.error.alreadyInTeam=&cDu har redan vält en lag! team.
+command.map=&7För närvarande spelar &e{0} &7på mappen &e{1} &7av &e{2}
+command.maps.title=&eMappar ({0}/{1}):
+command.setnext.error.notFound=&cMap inte hittat "{0}"
+command.setnext=&aStälla in nästa map till &e{0} &7({1})
+command.next=&7Nästa map: &e{0} &7på map &e{1} &7av &e{2}
+command.rotation.title=&eAktiv rotation({0}/{1}):
+command.cancel=&aNedräkning avbröts cancelled.
+command.start.error.cannotStart=&cMatchen kan inte bli startat just nu. time.
+command.start.success=&aMatchem har startat!
+command.end.error.noMatchInProgress=&cIngen match pågående.
+command.cycle.error.matchInProgress=&cDet finns ett match som är pågående.
+
+chat.match.start=&aMatchem har startat!
+chat.match.end.winningTeam=&5Vinnande laget: &b{0}
+chat.match.end.winnerMessage=&7Grattis!chat.match.end.spectatorMessage=&7Spela nästa match?
+chat.match.end.loserMessage=&7
+Bättre lycka nästa gång!
+
+item.teleportTool.name=&eTeleportera Tool
+item.teamSelector.name=&eTeam Selection
+gui.teamSelector.autoJoin.name=&f&lAuto Join
+gui.teamSelector.title=&nLag Selector
+gui.teamSelector.playing=&r{0}&7/{1} playing.
+gui.teamSelector.spectateLore=&rBetrakta matchen.
+gui.teamSelector.spectating=&r{0}&7/{1} spectating.
+title.match.end.win=&aDin lag vann!
+title.match.end.lose=&cDin lag förlorade!
+title.match.end.tie=&eresultatet var en lika poängtal!
+
+bossbar.match.waiting.single=&cVäntar på &b{0} &cspelare att spela join
+bossbar.match.waiting=&cVäntar på &b{0} &cspelare att spela
+bossbar.match.starting.single=&aMatchen startar i &c{0} &asecond
+bossbar.match.starting=&aMatchen startar i &c{0} &aseconds
+
+scoreboard.objectives=&bObjectives
+scoreboard.blitz.players=&bPlayers
+scoreboard.blitz.playersAlive=&r{0} &7Alive
+scoreboard.tdm.kills=&r{0}&7/{1} &rDina dödar.
